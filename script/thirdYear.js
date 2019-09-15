@@ -480,11 +480,11 @@ function loadThirdYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 12213<span style="color: red">C</span> </h6>  
-                                    <p class="subjectName">Data Structures And Algorithms</p>
+                                    <h6 class="subjectCode">SENG 34213<span style="color: red"></span> </h6>  
+                                    <p class="subjectName">Systems Development Project</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
-                                    <select class="form-control" id="SENG 12213" name="marks" onchange="addSubject('SENG 12213',3,value)">
+                                    <select class="form-control" id="SENG 34213" name="marks" onchange="addSubject('SENG 34213',3,value)">
                                         <option value="none">--</option>
                                         <option value=4.0>A+</option>
                                         <option value=4.0>A</option>
@@ -509,11 +509,11 @@ function loadThirdYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 12223</h6>
-                                    <p class="subjectName">Database Design And Development</p>
+                                    <h6 class="subjectCode">SENG 32216</h6>
+                                    <p class="subjectName">Internship</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
-                                    <select class="form-control" id="SENG 12223" name="marks" onchange="addSubject('SENG 12223',3,value)">
+                                    <select class="form-control" id="SENG 32216" name="marks" onchange="addSubject('SENG 32216',6,value)">
                                         <option value="none">--</option>
                                         <option value=4.0>A+</option>
                                         <option value=4.0>A</option>
@@ -535,5 +535,5 @@ function loadThirdYear(){
                 </div>
             </div>
     `
-    load(1);
+    load(2);
 }
