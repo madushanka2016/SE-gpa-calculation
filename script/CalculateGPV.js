@@ -30,6 +30,7 @@ function calculateGPA(){
     }
     if(totalCredit !== 0){
         gpa = (totalGPV/totalCredit).toFixed(4);
+        showClass(gpa);
     }else{
         gpa = "---";
     }
@@ -40,4 +41,22 @@ function calculateGPA(){
 function showGPA(){
     var gpaLabel = document.getElementById("gpa");
     gpaLabel.innerHTML = `<h1>`+gpa+`</h1>`
+}
+function showClass(gpa){
+    var gpaStatus = document.getElementById("gpaStatus");
+    if(gpa>=3.7){
+        gpaStatus.innerHTML = "<p>You have 1st class</p>"
+    }else if(gpa>=3.3){
+        gpaStatus.innerHTML = "<p>You have 2nd upper class</p>"
+    }else if(gpa>=3.0){
+        gpaStatus.innerHTML = "<p>You have 2nd lower class</p>"
+    }else if(gpa>=2.0){
+        gpaStatus.innerHTML = "<p>You have general</p>"
+    }else{
+        gpaStatus.innerHTML = "<p>You are not qulified for degree</p>"
+    }
+}
+
+function noOfResult(){
+    
 }
