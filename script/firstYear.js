@@ -11,8 +11,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 11223 <span style="color: red">C</span> </h6>  
-                                    <p style="padding: 0px 0px 0px 0px">Programming Concepts</p>
+                                    <h6 class="subjectCode">SENG 11223 <span style="color: red">C</span> </h6>  
+                                    <p class="subjectName">Programming Concepts</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 11223" name="marks" onchange="addSubject('SENG 11223',3,value)">
@@ -40,8 +40,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 11213</h6>
-                                    <p style="padding: 0px 0px 0px 0px">Fundamentals Of Computing</p>
+                                    <h6 class="subjectCode">SENG 11213</h6>
+                                    <p class="subjectName">Fundamentals Of Computing</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 11213" name="marks" onchange="addSubject('SENG 11213',3,value)">
@@ -69,8 +69,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 11232</h6>
-                                    <p style="padding: 0px 0px 0px 0px">Engineering Foundation</p>
+                                    <h6 class="subjectCode">SENG 11232</h6>
+                                    <p class="subjectName">Engineering Foundation</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 11232" name="marks" onchange="addSubject('SENG 11232',2,value)">
@@ -98,8 +98,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 11243 <span style="color: red">C</span> </h6>  
-                                    <p style="padding: 0px 0px 0px 0px">Statistics</p>
+                                    <h6 class="subjectCode">SENG 11243 <span style="color: red">C</span> </h6>  
+                                    <p class="subjectName">Statistics</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 11243" name="marks" onchange="addSubject('SENG 11243',3,value)">
@@ -127,8 +127,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">PMAT 11212</h6>
-                                    <p style="padding: 0px 0px 0px 0px">Discreet Mathematicd For Computing I</p>
+                                    <h6 class="subjectCode">PMAT 11212</h6>
+                                    <p class="subjectName">Discreet Mathematicd For Computing I</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="PMAT 11212" name="marks" onchange="addSubject('PMAT 11212',2,value)">
@@ -156,8 +156,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">DELT 11212</h6>
-                                    <p style="padding: 0px 0px 0px 0px">English For Profrssionals</p>
+                                    <h6 class="subjectCode">DELT 11212</h6>
+                                    <p class="subjectName">English For Profrssionals</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="DELT 11212" name="marks" onchange="addSubject('DELT 11212',2,value)">
@@ -190,8 +190,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 12213<span style="color: red">C</span> </h6>  
-                                    <p style="padding: 0px 0px 0px 0px">Data Structures And Algorithms</p>
+                                    <h6 class="subjectCode">SENG 12213<span style="color: red">C</span> </h6>  
+                                    <p class="subjectName">Data Structures And Algorithms</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 12213" name="marks" onchange="addSubject('SENG 12213',3,value)">
@@ -219,8 +219,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 12223</h6>
-                                    <p style="padding: 0px 0px 0px 0px">Database Design And Development</p>
+                                    <h6 class="subjectCode">SENG 12223</h6>
+                                    <p class="subjectName">Database Design And Development</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 12223" name="marks" onchange="addSubject('SENG 12223',3,value)">
@@ -248,8 +248,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 12233</h6>
-                                    <p style="padding: 0px 0px 0px 0px">Object Oriented Programming</p>
+                                    <h6 class="subjectCode">SENG 12233</h6>
+                                    <p class="subjectName">Object Oriented Programming</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 12233" name="marks" onchange="addSubject('SENG 12233',3,value)">
@@ -277,8 +277,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">SENG 12242<span style="color: red">C</span> </h6>  
-                                    <p style="padding: 0px 0px 0px 0px">Management For Software Engineering I</p>
+                                    <h6 class="subjectCode">SENG 12242<span style="color: red">C</span> </h6>  
+                                    <p class="subjectName">Management For Software Engineering I</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="SENG 12242" name="marks" onchange="addSubject('SENG 12242',2,value)">
@@ -306,8 +306,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">PMAT 12212</h6>
-                                    <p style="padding: 0px 0px 0px 0px">Discreet Mathematics For Computing II</p>
+                                    <h6 class="subjectCode">PMAT 12212</h6>
+                                    <p class="subjectName">Discreet Mathematics For Computing II</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="PMAT 12212" name="marks" onchange="addSubject('PMAT 12212',2,value)">
@@ -335,8 +335,8 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 style="padding: 10px 0px 0px 0px">DELT 12312</h6>
-                                    <p style="padding: 0px 0px 0px 0px">Communication Skills For Professionals</p>
+                                    <h6 class="subjectCode">DELT 12312</h6>
+                                    <p class="subjectName">Communication Skills For Professionals</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
                                     <select class="form-control" id="DELT 12312" name="marks" onchange="addSubject('DELT 12312',2,value)">
