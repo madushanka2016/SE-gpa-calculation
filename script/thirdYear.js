@@ -535,5 +535,5 @@ function loadThirdYear(){
                 </div>
             </div>
     `
-    load(2);
+    load(3);
 }
