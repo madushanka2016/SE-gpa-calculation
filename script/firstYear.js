@@ -11,7 +11,7 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 11223 <span style="color: red">C</span> </h6>  
+                                    <h6 class="subjectCode">SENG 11223 <span style="color: red"></span> </h6>  
                                     <p class="subjectName">Programming Concepts</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -98,7 +98,7 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 11243 <span style="color: red">C</span> </h6>  
+                                    <h6 class="subjectCode">SENG 11243 <span style="color: red"></span> </h6>  
                                     <p class="subjectName">Statistics</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -190,7 +190,7 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 12213<span style="color: red">C</span> </h6>  
+                                    <h6 class="subjectCode">SENG 12213<span style="color: red"></span> </h6>  
                                     <p class="subjectName">Data Structures And Algorithms</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -277,7 +277,7 @@ function loadFirstYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 12242<span style="color: red">C</span> </h6>  
+                                    <h6 class="subjectCode">SENG 12242<span style="color: red"></span> </h6>  
                                     <p class="subjectName">Management For Software Engineering I</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
