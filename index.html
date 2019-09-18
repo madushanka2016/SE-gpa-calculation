@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SE gpa calculation</title>
+    <link rel="stylesheet" type="text/css" href="script/yearCss.css">
+     <!-- bootstrap css -->
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+     <!-- fontawesome -->
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+</head>
+<body onload="loadFirstYear();">
+    <!-- Header Section -->
+    <header style="text-align: center;
+        background-color: green;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        ">
+        <h1 style="padding: 10px 0px 10px 0px;">GPA Calculator</h1>
+    </header>
+    <!-- <h1>GPA calculation</h1> -->
+    <div class="row">
+        <div class="col-2">
+            <div id="gpa" style="text-align: center;
+                padding: 50px 0px 30px 0px;">
+                <h1>GPA</h1>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col">
+                    <button onclick="loadFirstYear()" class="btn btn-success" style="width: 80%;margin-left: 10%;">1 Year</button>
+                    <p></p>
+                    <button onclick="loadSecondYear()" class="btn btn-success" style="width: 80%;margin-left: 10%;">2 Year</button>
+                    <p></p>
+                    <button onclick="loadThirdYear()" class="btn btn-success" style="width: 80%;margin-left: 10%;">3 Year</button>
+                    <p></p>
+                    <button onclick="loadFourthYear()" class="btn btn-success" style="width: 80%;margin-left: 10%;">4 Year</button>
+                </div>
+            </div>
+            <div class="row justify-content-center" id="gpaStatus">
+
+            </div>
+        </div>
+        <div class="col-9" id="show">
+            
+        </div>
+        <div data-role="fieldcontain" class="ui-hide-label" id="test">
+
+        </div>
+    </div>
+    <!-- footer -->
+    <footer class="row">
+        <div class="col" style="text-align: center;
+            background-color: green;
+            margin: 0px 0px 0px 0px;
+            padding: 0px 0px 0px 0px;
+            ">
+            <p>s</p>
+        </div>
+    </footer>
+    <div id="t">
+
+    </div>
+    <script>
+        var d = document.getElementById("t");
+        document.cookie = "cookiename=cookievalue; expires= Thu, 21 Aug 2014 20:00:00 UTC";
+        var x = document.cookie.split(' ');
+        console.log(x[0]);
+        console.log(x);
+    </script>
+    <script>
+        let show = document.getElementById("show");
+    </script>
+    
+    <script src="script/CalculateGPV.js"></script>
+    <script src="script/firstYear.js"></script>
+    <script src="script/secondYear.js"></script>
+    <script src="script/thirdYear.js"></script>
+    <script src="script/fourthYear.js"></script>
+    <script src="script/load.js"></script>
+
+</body>
+</html>
