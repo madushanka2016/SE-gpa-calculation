@@ -11,7 +11,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41212 <span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41212</h6>  
                                     <p class="subjectName">Software Evolution</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -69,7 +69,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41233</h6>
+                                    <h6 class="subjectCode">SENG 41233<span style="color: red"> Optional</span></h6>
                                     <p class="subjectName">Digital Image Processing</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -98,7 +98,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41242<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41242<span style="color: red"> Optional</span></h6>  
                                     <p class="subjectName">Advanced Databases</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -127,7 +127,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41252</h6>
+                                    <h6 class="subjectCode">SENG 41252<span style="color: red"> Optional</span></h6>
                                     <p class="subjectName">Advanced Computer Networks</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -156,7 +156,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41262</h6>
+                                    <h6 class="subjectCode">SENG 41262<span style="color: red"> Optional</span></h6>
                                     <p class="subjectName">Speech Interfaces</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -185,7 +185,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41272<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41272<span style="color: red"> Optional</span><span style="color: red"></span> </h6>  
                                     <p class="subjectName">Formal Methods</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -214,7 +214,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41283<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41283 <span style="color: blue">Net</span> </h6>  
                                     <p class="subjectName">Distributed and Cloud Computing</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -243,7 +243,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41293<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41293 <span style="color: blue">Mobile</span> </h6>  
                                     <p class="subjectName">Mobile Web Application Development</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -272,7 +272,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41303<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41303 <span style="color: blue">Data</span> </h6>  
                                     <p class="subjectName">Big Data Infrastructure</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -301,7 +301,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41313<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41313 <span style="color: blue">Health</span> </h6>  
                                     <p class="subjectName">Health Information Systems Design and Development</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -330,7 +330,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41323<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41323 <span style="color: blue">Gaming</span></h6>  
                                     <p class="subjectName">Games Design, Artwork, and Programming</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -359,7 +359,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 41333<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 41333 <span style="color: blue">Business</span> </h6>  
                                     <p class="subjectName">Computer Based Operations Management</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -451,7 +451,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42222</h6>
+                                    <h6 class="subjectCode">SENG 42222<span style="color: red"> Optional</span></h6>
                                     <p class="subjectName">Usability Engineering</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -480,7 +480,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42232<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 42232<span style="color: red"> Optional</span></span> </h6>  
                                     <p class="subjectName">Software Management</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -509,7 +509,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42242</h6>
+                                    <h6 class="subjectCode">SENG 42242<span style="color: red"> Optional</span></h6>
                                     <p class="subjectName">Machine Learning</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -538,7 +538,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42252</h6>
+                                    <h6 class="subjectCode">SENG 42252<span style="color: red"> Optional</span></h6>
                                     <p class="subjectName">Computer Graphics</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -567,7 +567,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42273<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 42273 <span style="color: blue">Net</span> </h6>  
                                     <p class="subjectName">Semantic Web and Ontological Engineering</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -596,7 +596,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42283<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 42283 <span style="color: blue">Mobile</span> </h6>  
                                     <p class="subjectName">Mobile Networks</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -625,7 +625,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42293<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 42293 <span style="color: blue">Data</span> </h6>  
                                     <p class="subjectName">Big Data Analytics</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -654,7 +654,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42303<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 42303 <span style="color: blue">Health</span> </h6>  
                                     <p class="subjectName">Medical Imaging and Biomedial Signal Processing</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -683,7 +683,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42313<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 42313 <span style="color: blue">Gaming</span> </h6>  
                                     <p class="subjectName">Advanced Topics in Game Design and Animation</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
@@ -712,7 +712,7 @@ function loadFourthYear(){
                         <form action="">
                             <div class="row">
                                 <div class="col-8">
-                                    <h6 class="subjectCode">SENG 42323<span style="color: red"></span> </h6>  
+                                    <h6 class="subjectCode">SENG 42323 <span style="color: blue">Business</span> </h6>  
                                     <p class="subjectName">Business Process Engineering</p>
                                 </div>
                                 <div class="col-3" style="padding: 15px">
